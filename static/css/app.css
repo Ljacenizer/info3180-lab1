@@ -8,3 +8,20 @@ body {
   max-width: 960px;
   margin: 0 auto;
 }
+
+body{
+  background-color: #F8B195;
+}
+h1{
+  color: #355C7D;
+  text-align: center;
+}
+p{
+  color: #355C7D;
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
